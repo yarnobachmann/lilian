@@ -1,0 +1,18 @@
+.align-c{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.full-view{
+  width: 100vw;
+  height: 100vh;
+}
+
+.display-none{
+  display: none;
+}
+
+.display-flex{
+  display: flex;
+}
