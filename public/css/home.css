@@ -32,7 +32,7 @@
 #sigarbox-visual-hover{
   position: absolute;
   width: 13%;
-  margin-top: 33%;
+  margin-top: 28%;
   right: 72%;
 }
 
@@ -47,14 +47,14 @@
   position: absolute;
   width: 15%;
   margin-top: 15%;
-  right: 58%;
+  right: 46%;
 }
 
 #sigarbox-rose-bud-2{
   position: absolute;
   width: 15%;
   margin-top: 15%;
-  right: 58%;
+  right: 46%;
   display: none;
   pointer-events: none;
 }
@@ -95,7 +95,7 @@
 .pistache{
   position: absolute;
   width: 8%;
-  margin-top: 27%;
+  margin-top: 22%;
   right: 75%;
 }
 
