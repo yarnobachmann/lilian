@@ -18,3 +18,11 @@ Route::get('/', function () {
 Route::get('/textual', function () {
     return view('partials.textual');
 });
+
+Route::get('/textual/writing', function () {
+    return view('partials.writing');
+});
+
+Route::get('/textual/notebook', function () {
+    return view('partials.textual');
+});
