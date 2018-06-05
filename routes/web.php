@@ -24,5 +24,13 @@ Route::get('/textual/writing', function () {
 });
 
 Route::get('/textual/notebook', function () {
-    return view('partials.textual');
+    return view('partials.notebook');
+});
+
+Route::get('/about', function () {
+    return view('partials.about');
+});
+
+Route::get('/about/cv', function () {
+    return view('partials.cv');
 });

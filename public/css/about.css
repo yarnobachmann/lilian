@@ -1,0 +1,22 @@
+tbody{
+  display: flex;
+  white-space: pre-line;
+}
+.table-class{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-x: auto;
+  margin-top: 35%;
+}
+.align-c {
+    overflow: auto;
+    height: 90vh;
+    top: 10%;
+}
+
+.typing{
+  top: 0;
+  position: absolute;
+  padding: 3%;
+}
