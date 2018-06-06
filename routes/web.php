@@ -34,3 +34,11 @@ Route::get('/about', function () {
 Route::get('/about/cv', function () {
     return view('partials.cv');
 });
+
+Route::get('/about/news', function () {
+    return view('partials.news');
+});
+
+Route::get('/about/news/{id}', function () {
+    return view('partials.news-single');
+});

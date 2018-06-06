@@ -1,0 +1,11 @@
+
+.align-c {
+    overflow: auto;
+    height: 90vh;
+    top: 10%;
+}
+
+.top-push{
+  top:10%;
+  height: 90vh;
+}
