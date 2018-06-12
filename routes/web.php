@@ -42,3 +42,15 @@ Route::get('/about/news', function () {
 Route::get('/about/news/{id}', function () {
     return view('partials.news-single');
 });
+
+Route::get('/visual', function () {
+    return view('partials.visual');
+});
+
+Route::get('/contact', function () {
+    return view('partials.contact');
+});
+
+Route::group(['prefix' => 'admin'], function () {
+    Voyager::routes();
+});

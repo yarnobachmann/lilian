@@ -1,0 +1,15 @@
+tbody{
+  display: flex;
+  white-space: pre-line;
+}
+.table-class{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 81%;
+  overflow-x: auto;
+  margin-top: 35%;
+}
+table{
+  margin-top: 20%;
+}

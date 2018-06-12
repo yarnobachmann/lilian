@@ -10,3 +10,14 @@ tbody{
   overflow-x: auto;
   margin-top: 35%;
 }
+table{
+  margin-top: 20%;
+}
+
+img{
+  object-fit: contain;
+height: 85vh;
+width: 100%;
+bottom: 0;
+position: absolute;
+}
