@@ -16,7 +16,7 @@
 
     <div class="row full-view">
 
-      <div class="flipbook-viewport">
+      <div class="flipbook-viewport" style="">
       	<div class="container">
       		<div class="flipbook">
       			<div style="background-image:url(/plugins/turnjs4/samples/basic/pages/1.jpg)"></div>
