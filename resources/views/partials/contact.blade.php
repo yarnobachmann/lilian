@@ -9,7 +9,7 @@
 @endsection
 
 @section('content')
-  <div class="col-12 full-view align-c" style="background-image: url('/img/contact/geert.jpg'); background-repeat: no-repeat; background-size: cover;">
+  <div class="col-12 full-view align-c" style="background-image: url('/img/contact/bg.jpg'); background-repeat: no-repeat; background-position: bottom; background-size: cover;">
 
   <div class="col-6" style="position: absolute; bottom:1%; left:0;">
     <h3 style="text-decoration: underline;">Contact</h3>
@@ -27,7 +27,7 @@
         </tr>
       </table>
 
-      <textarea id="message" name="message" placeholder="Write something.." style="height:200px; width: 100%; margin-top: 5%;"></textarea>
+      <textarea id="message" name="message" placeholder="Write something.." style="height:200px; width: 50%; margin-top: 5%;"></textarea>
       <br>
       <input type="submit" value="Submit">
     </form>
