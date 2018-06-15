@@ -31,7 +31,7 @@
   </table>
   </div>
     </div>
-    <div class="col-9 align-c" style="background-image: url('/img/about/bg.jpg');">
+    <div class="col-9 align-c">
       <p class="typing"></p>
     </div>
 
